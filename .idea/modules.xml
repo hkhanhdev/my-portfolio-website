@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/myportfoliowebsite.iml" filepath="$PROJECT_DIR$/.idea/myportfoliowebsite.iml" />
+      <module fileurl="file://C:/xampp/htdocs/test/.idea/test.iml" filepath="C:/xampp/htdocs/test/.idea/test.iml" />
+      <module fileurl="file://$USER_HOME$/PhpstormProjects/year_end_pj/.idea/year_end_pj.iml" filepath="$USER_HOME$/PhpstormProjects/year_end_pj/.idea/year_end_pj.iml" />
+    </modules>
+  </component>
+</project>
