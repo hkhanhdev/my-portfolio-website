@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/myportfoliowebsite.iml" filepath="$PROJECT_DIR$/.idea/myportfoliowebsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../machine learning course/practice/.idea/practice.iml" filepath="$PROJECT_DIR$/../machine learning course/practice/.idea/practice.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/projects/.idea/projects.iml" filepath="$USER_HOME$/PycharmProjects/projects/.idea/projects.iml" />
       <module fileurl="file://$USER_HOME$/PhpstormProjects/year_end_pj/.idea/year_end_pj.iml" filepath="$USER_HOME$/PhpstormProjects/year_end_pj/.idea/year_end_pj.iml" />
     </modules>
   </component>
